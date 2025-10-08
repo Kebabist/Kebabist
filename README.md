@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kebabist/Kebabist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Kebabist
 
-Here are some ideas to get you started:
+### Developer • Creator • Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+</div>
+
+## 🚀 About Me
+
+I'm passionate about building elegant solutions to complex problems. I believe in writing clean, maintainable code and sharing knowledge with the community.
+
+## 💻 What I Do
+
+- 🔨 Building innovative projects
+- 🌱 Constantly learning and growing
+- 🤝 Contributing to open source
+- ✨ Creating meaningful software
+
+## 📫 Let's Connect
+
+Feel free to reach out if you'd like to collaborate on a project or just want to say hi!
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
