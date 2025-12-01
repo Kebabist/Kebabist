@@ -8,22 +8,18 @@
 
 ## 🚀 About Me
 
-I'm passionate about building elegant solutions to complex problems. I believe in writing clean, maintainable code and sharing knowledge with the community.
+Final-year undergraduate Computer Engineering student specializing in Intelligent Systems & Hardware, Focused on embedded systems, low-level programming,real-time systems, and AI. Hands-on experience with C/C++, Python, and Microcontrollers in team-based R&D projects like AUV development.Seeks to apply expertise to innovative indus trial/academic work andexplorenewscientificfrontiers.
 
 ## 💻 What I Do
 
-- 🔨 Building innovative projects
-- 🌱 Constantly learning and growing
-- 🤝 Contributing to open source
-- ✨ Creating meaningful software
 
 <div align="center">
 
 ### 📊 GitHub Stats
 
-![Kebabist's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kebabist&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Kebabist&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kebabist&theme=github-dark-blue&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kebabist&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -37,6 +33,6 @@ Feel free to reach out if you'd like to collaborate on a project or just want to
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kebabist&color=58A6FF&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=Kebabist&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
