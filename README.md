@@ -33,6 +33,4 @@ Feel free to reach out if you'd like to collaborate on a project or just want to
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<img src="https://komarev.com/ghpvc/?username=Kebabist&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
 </div>
