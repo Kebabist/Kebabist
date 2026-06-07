@@ -1,45 +1,140 @@
-<h1 align="center">Hi 👋, I'm Kebabist</h1>
-<h3 align="center">ML Engineer</h3>
+<img width="88" height="89" alt="image" src="https://github.com/user-attachments/assets/d073e875-b794-464e-801d-44583344b3b9" /><div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kebabist&label=Profile%20views&color=0e75b6&style=flat" alt="kebabist" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamad%20Jafari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Edge%20AI%20%7C%20Embedded%20Systems&descAlignY=56&descSize=16" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kebabist" alt="kebabist" /></a> </p>
-I build ML systems that start in PyTorch and end in C — closer to the metal than traditional ML pipelines usually go.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+ML+systems+that+start+in+PyTorch...;...and+end+in+C.;Computer+Vision+%7C+Edge+Inference;Embedded+Systems+%7C+IoT+%7C+Robotics;Making+intelligence+work+at+the+edge.)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=kebabist&label=Profile%20views&color=0e75b6&style=flat" alt="kebabist" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I build ML systems that start in PyTorch and end in C — closer to the metal than most ML engineers care to go.
+
 Computer vision, edge inference, embedded systems, IoT, and the occasional autonomous robot. The common thread: making intelligence work on hardware that doesn't forgive inefficiency.
 
-<!---- 🔭 I’m currently working on **x**--->
+---
 
-<!---- - 🌱 I’m currently learning **x**--->
+## 🛠️ Tech Stack
 
-<!---- - 👯 I’m looking to collaborate on **x**--->
-
-<!---- - 🤝 I’m looking for help with **x**--->
-
-<!---- - 👨‍💻 All of my projects are available at [x](x)--->
-
-<!---- - 📝 I regularly write articles on [x](x)--->
-
-<!---- - 💬 Ask me about **x**--->
-
-<!---- - 📫 How to reach me **Kebbabist@protonmail.com** --->
-
-<!---- - 📄 Know about my experiences [x](x)--->
-
-<!---- - ⚡ Fun fact **x**--->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kebabist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kebabist" height="30" width="40" /></a>
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,python&perrow=10" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Edge%20Impulse-00C0B5?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+<img src="https://img.shields.io/badge/TinyML-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-189652?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<!----
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kebabist"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kebabist" /></a><a href="https://ko-fi.com/kebabist"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kebabist" /></a></p><br><br>--->
+### 🧬 LLM / Generative AI
+<p>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kebabist&show_icons=true&locale=en&layout=compact" alt="kebabist" /></p>
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,lua,rust&perrow=10" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kebabist&show_icons=true&locale=en" alt="kebabist" /></p>
+### ⚙️ Embedded Systems & Hardware
+<p>
+<img src="https://skillicons.dev/icons?i=arduino&perrow=10" />
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/AVR-1B96B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/FreeRTOS-8CC4D7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mbed%20OS-52BE80?style=flat-square"/>
+<img src="https://img.shields.io/badge/Keil-0078D7?style=flat-square"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kebabist&" alt="kebabist" /></p>
+### 🌐 Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git&perrow=10" />
+</p>
+
+### 🔌 Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postman&perrow=10" />
+<img src="https://img.shields.io/badge/REST%20API-0052CC?style=flat-square"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,postgres&perrow=10" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=qt,matlab,latex&perrow=10" />
+<img src="https://img.shields.io/badge/Proteus-1E88E5?style=flat-square"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kebabist&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kebabist&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabist&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kebabist&theme=tokyonight" alt="kebabist"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/kebabist/kebabist/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/kebabist"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Kebbabist@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+
+</p>
+
+---
+
+## ☕ Buy Me a Coffee
+
+I optimize neural networks to run on microcontrollers with less RAM than a 2003 Nokia. My own brain, however, is a poorly optimized system that requires regular caffeine input to avoid fatal errors.
+
+If something I built was useful to you — or you simply respect someone who voluntarily works with raw pointers and unsigned integers for fun — feel free to buy me a coffee. It goes directly toward preventing segmentation faults in my thought process and keeping the firmware cursing to a minimum.
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/kebabist"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kebabist"/></a>
+<a href="https://ko-fi.com/kebabist"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kebabist"/></a>
+</p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
