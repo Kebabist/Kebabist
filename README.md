@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamad%20Jafari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Edge%20AI%20%7C%20Embedded%20Systems&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kebabist&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Edge%20AI%20%7C%20Embedded%20Systems&descAlignY=56&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+ML+systems+that+start+in+PyTorch...;...and+end+in+C.;Computer+Vision+%7C+Edge+Inference;Embedded+Systems+%7C+IoT+%7C+Robotics;Making+intelligence+work+at+the+edge.)](https://git.io/typing-svg)
 
