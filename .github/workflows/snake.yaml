@@ -27,11 +27,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Push to output branch securely
+      # Step 3: Generate the Trophies (NEW)
+      - name: Generate Trophies
+        uses: soulteary/github-profile-trophy@main
+        with:
+          username: ${{ github.repository_owner }}
+          theme: tokyonight
+          no-frame: true
+          row: 1
+          column: 7
+          out_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 4: Push to output branch securely
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "chore: update snake animation"
+          commit_message: "chore: update snake and trophies"
