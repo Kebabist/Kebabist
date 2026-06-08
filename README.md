@@ -120,11 +120,6 @@ Computer vision, edge inference, embedded systems, IoT, and the occasional auton
 
 ---
 
-## ☕ Buy Me a Coffee
-
-I optimize neural networks to run on microcontrollers with less RAM than a 2003 Nokia. My own brain, however, is a poorly optimized system that requires regular caffeine input to avoid fatal errors.
-
-If something I built was useful to you — or you simply respect someone who voluntarily works with raw pointers and unsigned integers for fun — feel free to buy me a coffee. It goes directly toward preventing segmentation faults in my thought process and keeping the firmware cursing to a minimum.
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/kebabist"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kebabist"/></a>
