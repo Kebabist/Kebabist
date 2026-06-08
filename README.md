@@ -90,7 +90,7 @@ Computer vision, edge inference, embedded systems, IoT, and the occasional auton
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kebabist/kebabist/output/github-profile-trophy.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kebabist/kebabist/output/trophy.svg" width="100%"/>
 
 <br/><br/>
 
