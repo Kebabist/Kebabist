@@ -90,13 +90,13 @@ Computer vision, edge inference, embedded systems, IoT, and the occasional auton
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kebabist&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+<img src="https://raw.githubusercontent.com/kebabist/kebabist/output/github-profile-trophy.svg" width="100%"/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kebabist&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=kebabist&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabist&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kebabist&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <br/>
 
