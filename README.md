@@ -13,6 +13,7 @@ I build ML systems that start in PyTorch and end in C — closer to the metal th
 ## 🌐 Socials:
 <p align="center">
 <a href="https://linkedin.com/in/kebabist"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://gitlab.com/kebabist"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="mailto:kebabist@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
 </p>
