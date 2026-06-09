@@ -59,7 +59,7 @@ I build ML systems that start in PyTorch and end in C — closer to the metal th
 # 📊 Stats:
 <div align="center">
   
-![](https://github-readme-stats.shion.dev/api?username=kebabist&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=kebabist&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=kebabist&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kebabist&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
